@@ -1,2 +1,3 @@
 # hello-world
-New repository
+Hi alle
+I am LiXia, first time on the plateform.
